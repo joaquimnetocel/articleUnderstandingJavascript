@@ -17,10 +17,10 @@ YOU CAN GET THIS PROJECT IN THE FOLLOWING WAYS:
 * CLONNING THIS REPOSITORY USING _GIT_:
 
   ```bash
-  git clone https://github.com/joaquimnetocel/exampleNode.git
+  git clone https://github.com/joaquimnetocel/UnderstandingJavascript.git
   ```
 
-* DOWNLOADING THE REPOSITORY [HERE](https://github.com/joaquimnetocel/exampleNode/archive/refs/heads/master.zip).
+* DOWNLOADING THE REPOSITORY [HERE](https://github.com/joaquimnetocel/UnderstandingJavascript/archive/refs/heads/master.zip).
 
 ## CONTRIBUTING
 
